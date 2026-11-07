@@ -130,7 +130,7 @@ export function Contact() {
 export function Footer() {
   return (
     <footer>
-      <div className="wrap"><span>Azix by Axis · Built for mining &amp; construction</span><span>Screens shown use sample data.</span></div>
+      <div className="wrap"><span>Azix by Axis · Built for mining &amp; construction</span></div>
     </footer>
   );
 }
