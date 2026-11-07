@@ -18,7 +18,7 @@ export function Problem() {
 }
 
 const STEPS = [
-  ['Raise', 'From the phone.'], ['Notified', 'In order.'], ['Sign', 'Approve = sign.'],
+  ['Raise', 'From the phone.'], ['Notified', 'In order.'], ['Sign', 'Approve'],
   ['Issue', 'Stock updates as it goes out.'], ['Sealed', 'Logged for good.']
 ];
 
